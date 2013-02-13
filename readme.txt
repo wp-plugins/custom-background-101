@@ -14,6 +14,8 @@ This is a highly customizable Background image uploader, background color plugin
 
 This is a highly customizable Background image uploader, background color plugin. You can set background image, background color, background reapet options.
 
+We developed this for our printing company which prints things like flyers, brochures, posters and banners for real estate agents etc. Figured we would share it :-)
+
 
 For more details, please visit: http://www.avincos.com
 
